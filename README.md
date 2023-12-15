@@ -1,3 +1,3 @@
-# BlindShaman-Model
+# OldShaman-Model
 
-Training the Models for the BlindShaman-App.
+Training the Models for the OldShaman-App.
